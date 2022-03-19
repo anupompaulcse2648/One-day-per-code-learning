@@ -1,0 +1,292 @@
+{
+  "courseDetails": [
+    {
+      "code": "web-1",
+      "courseMain": "web",
+      "courseTitle": "Node with React: Fullstack Web Development",
+      "instructor": "Stephen Grider",
+      "description": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+      "image": "https://img-c.udemycdn.com/course/240x135/1254420_f6cb_4.jpg",
+      "enrol": "76,330 Students",
+      "lastUpdate": "Last updated 9/2021",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "web-2",
+      "courseMain": "web",
+      "courseTitle": "Beginner Full Stack Web Development: HTML, CSS..",
+      "instructor": "Mark Wahlbeck",
+      "description": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+      "image": "https://img-c.udemycdn.com/course/240x135/1042110_ffc3_4.jpg",
+      "enrol": "112,920 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "web-3",
+      "courseMain": "web",
+      "courseTitle": "The Complete Web Course for 20 Hours 2.0",
+      "instructor": "Rob Percival",
+      "description": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+      "image": "https://img-c.udemycdn.com/course/240x135/764164_de03_2.jpg",
+      "enrol": "112,920 students",
+      "publishedDate": "Last updated 9/2021",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "web-4",
+      "courseMain": "web",
+      "courseTitle": "The Complete 2021 Web Development BootCamp",
+      "instructor": "Dr. Angela Yu",
+      "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+      "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
+      "enrol": "478,113 students",
+      "publishedDate": "Last updated 1/2021",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "web-5",
+      "courseMain": "web",
+      "courseTitle": "The Web Developer Boot Camp 2021",
+      "instructor": "Colt Steele",
+      "description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "image": "https://img-c.udemycdn.com/course/240x135/1042110_ffc3_4.jpg",
+      "enrol": "715,618 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "web-6",
+      "courseMain": "web",
+      "courseTitle": "Modern React with Redux, React Native",
+      "instructor": "Stephen Grider",
+      "description": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+      "image": "https://img-c.udemycdn.com/course/240x135/705264_caa9_11.jpg",
+      "enrol": "244,482 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.9",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "graphics-1",
+      "courseMain": "graphics",
+      "courseTitle": "Graphic Design Masterclass - Learn GREAT Design",
+      "instructor": "Lindsay Marsh",
+      "description": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+      "image": "https://img-c.udemycdn.com/course/240x135/1643044_e281.jpg",
+      "enrol": "31,396 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.9",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "graphics-2",
+      "courseMain": "graphics",
+      "courseTitle": "Graphic Design Bootcamp: Photoshop, Illustrator",
+      "instructor": "Derrick Mithcel",
+      "description": "Bestselling Beginner Course! Use Photoshop, Illustrator, & InDesign for logo design, web design, poster design, and more",
+      "image": "https://img-c.udemycdn.com/course/240x135/749542_4762_3.jpg",
+      "enrol": "112,920 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.9",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "graphics-3",
+      "courseMain": "graphics",
+      "courseTitle": "Digital Design Masterclass For Graphic Designers",
+      "instructor": "Lindsay Marsh",
+      "description": "Icon Set Design, E-book cover, Digitizing Sketches, Social Media Design, Wordpress Web Design, Adobe Xd, GIFS and more!",
+      "image": "https://img-c.udemycdn.com/course/240x135/2749280_1652_2.jpg",
+      "enrol": "31,396 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.4",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "graphics-4",
+      "courseMain": "graphics",
+      "courseTitle": "Learn Professional 2D Game Graphic Design",
+      "instructor": "Jaysen Batchelor",
+      "description": "Learn how you can create your own professional game graphics quickly in Photoshop!",
+      "image": "https://img-c.udemycdn.com/course/240x135/707876_9e82_4.jpg",
+      "enrol": "61,985 students",
+      "publishedDate": "Last updated 2/2017",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "graphics-5",
+      "courseMain": "graphics",
+      "courseTitle": "Beginner Full Stack Web Development: HTML, CSS",
+      "instructor": "Mark Wahlbeck",
+      "description": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+      "image": "https://img-c.udemycdn.com/course/240x135/1042110_ffc3_4.jpg",
+      "enrol": "112,920 students",
+      "publishedDate": "Last updated 10/2020",
+      "star": "4.7",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "software-1",
+      "courseMain": "software",
+      "courseTitle": "Software Development: Better Requirements",
+      "instructor": "Robin Slee",
+      "description": "Boost Your Software Requirements Gathering Skills Today! Learn The Techniques That Work!",
+      "image": "https://img-c.udemycdn.com/course/240x135/688870_c475_2.jpg",
+      "enrol": "14,685 students",
+      "publishedDate": "Last updated 12/2015",
+      "star": "4.2",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "software-2",
+      "courseMain": "software",
+      "courseTitle": "Beginner Full Stack Web Development: HTML, CSS",
+      "instructor": "Akhilendra Singh MBA",
+      "description": "Become a great business analyst, product owner & scrum master with JIRA & Confluence. Business analysis & Scrum course.",
+      "image": "https://img-c.udemycdn.com/course/240x135/1266500_73ae_3.jpg",
+      "enrol": "5,941 students",
+      "publishedDate": "Last updated 1/2021",
+      "star": "4.2",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    },
+    {
+      "code": "software-3",
+      "courseMain": "software",
+      "courseTitle": "Agile Scrum Advanced Software Development",
+      "instructor": "Paul Ashun",
+      "description": "Learn the Scrum of Scrums technique, how to Become a Scrum Master and how to Coach by explaining scrum with 72 reasons",
+      "image": "https://img-c.udemycdn.com/course/240x135/646070_2d5e_5.jpg",
+      "enrol": "59,835 students",
+      "publishedDate": "Last updated 6/2021",
+      "star": "4.2",
+      "price": {
+        "currency": "Dollar",
+        "discountPrice": "13.99",
+        "off": "84%",
+        "oldPrice": "89.99"
+      }
+    }
+  ],
+  "teachers": [
+    {
+      "id": 10214,
+      "name": "Mosh Hamedani",
+      "designation": "Software Engineer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/712832_5e8d_3.jpg"
+    },
+    {
+      "id": 10215,
+      "name": "Daniel Walter Scott",
+      "designation": "Designer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/11614232_b0fc.jpg"
+    },
+    {
+      "id": 10216,
+      "name": "Lindsay Marsh",
+      "designation": "Graphic Designer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/16146540_ef4c_15.jpg"
+    },
+    {
+      "id": 10217,
+      "name": "MD SHAMSUDDIN",
+      "designation": "Graphic Designer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/126371502_9f17.jpg"
+    },
+    {
+      "id": 10218,
+      "name": "Thomas Rankin",
+      "designation": "UX Designer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/136328441_3df4.jpg"
+    },
+    {
+      "id": 10219,
+      "name": "Dr. Angela Yu",
+      "designation": "Developer and Lead Instructor",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_2.jpg"
+    },
+    {
+      "id": 10220,
+      "name": "Jonas Schmedtmann",
+      "designation": "Web Developer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/7799204_2091_5.jpg"
+    },
+    {
+      "id": 10221,
+      "name": "Maximilian",
+      "designation": "Software Engineer",
+      "teamsMemberImage": "https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg"
+    }
+  ]
+}
